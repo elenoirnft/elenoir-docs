@@ -1,8 +1,7 @@
 # Marketplace
 
-Coming soon
+Coming soon...
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **FYI:** We will make our own marketplace for the use of $EIYU.
 {% endhint %}
-
