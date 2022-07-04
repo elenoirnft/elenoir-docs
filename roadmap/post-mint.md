@@ -1,3 +1,3 @@
 # Post mint
 
-Coming soon...
+Wait for the evolution👀
