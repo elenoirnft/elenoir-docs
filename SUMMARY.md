@@ -6,6 +6,7 @@
 
 * [Community build](roadmap/community-build.md)
 * [ELENOIR Genesis](roadmap/elenoir-genesis.md)
+* [Mint date](roadmap/mint-date.md)
 * [Post mint](roadmap/post-mint.md)
 
 ## Utilities
