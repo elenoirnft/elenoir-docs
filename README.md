@@ -7,7 +7,7 @@ coverY: 0
 
 ## **ELENOIR**
 
-ELENOIR is an ANIME-INSPIRED NFT Project with 3.333 of maximum supply.
+ELENOIR is an ANIME-INSPIRED NFT Project with 5.555 of maximum supply.
 
 The NFTs consists of many unique traits with 3 traits as the form base:
 
