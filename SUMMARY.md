@@ -11,5 +11,6 @@
 
 ## Utilities
 
+* [Full ownership](utilities/full-ownership.md)
 * [ELENOIR Coin](utilities/elenoir-coin.md)
 * [Marketplace](utilities/marketplace.md)
